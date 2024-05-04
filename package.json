@@ -1,6 +1,6 @@
 {
   "name": "m6node-day3-npm-package-class-assignment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "learning how to create and publish node packages.",
   "main": "index.mjs",
   "scripts": {
@@ -16,8 +16,7 @@
     "node.js",
     "npm",
     "package",
-    "binary",
-    "search",
+    "binary search",
     "alex21c"
   ],
   "author": "Abhishek kumar",
