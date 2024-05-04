@@ -1,5 +1,7 @@
 # npm package | Day 3 Classwork (Node Js Module #6 MERN Stack)
 ![](thumbnail.png)
+## Package Link on npmjs
+[m6node-day3-npm-package-class-assignment](https://www.npmjs.com/package/m6node-day3-npm-package-class-assignment)
 
 ## Objectives
 To learn how to develop and publish my own Node.js package for binary search algorithm.
