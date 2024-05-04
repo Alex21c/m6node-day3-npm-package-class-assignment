@@ -1,0 +1,25 @@
+{
+  "name": "m6node-day3-npm-package-class-assignment",
+  "version": "1.0.0",
+  "description": "learning how to create and publish node packages.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alex21c/m6node-day3-npm-package-class-assignment.git"
+  },
+  "keywords": [
+    "node.js",
+    "npm",
+    "package",
+    "binary",
+    "search",
+    "alex21c"
+  ],
+  "author": "Abhishek kumar",
+  "license": "MIT"
+}
