@@ -10,7 +10,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Alex21c/m6node-day3-npm-package-class-assignment.git"
+    "url": "git+https://github.com/Alex21c/m6node-day3-npm-package-class-assignment.git"
   },
   "keywords": [
     "node.js",

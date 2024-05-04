@@ -1,6 +1,13 @@
-// Implementing Binary Search
-// Overall Time Complexity (if provided nums are not sorted ): O(n log n + log n) = O (n log n)
-// Overall Time Complexity (if provided nums are sorted ): O (log n)
+/***
+ * Binary Search
+ * Overall Time Complexity (if provided nums are not sorted ): 
+ *    O(n log n + log n) = O (n log n)
+ * Overall Time Complexity (if provided nums are sorted ):
+ *    O (log n)
+ * Overall Space Complexity: 
+ *  O(1) Not extra space was used
+ */
+
 
 // Sample Data
   // let nums = [35, 2, 75, 3, 11, 7];
